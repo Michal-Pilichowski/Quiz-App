@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <!-- Apps messages -->
+    <string name="current_question">Question: %2$d/3</string>
+    <string name="end_message">The end. Touch any button to start again.</string>
+
+    <!-- Question 1 -->
+    <string name="question_1">What is the capital city of  England?</string>
+    <string name="answer_1_1">London</string>
+    <string name="answer_1_2">Manchester</string>
+    <string name="answer_1_3">Cardiff</string>
+    <string name="answer_1_4">Cantenbery</string>
+
+    <!-- Question 2 -->
+    <string name="question_2">Who was the first man to sail around the world?</string>
+    <string name="answer_2_1">Christopher Columbus</string>
+    <string name="answer_2_2">James Cook</string>
+    <string name="answer_2_3">Francis_Drake</string>
+    <string name="answer_2_4">Ferdinand Magellan</string>
+
+    <!-- Question 3 -->
+    <string name="question_3">Which of following planets is the closest to sun?</string>
+    <string name="answer_3_1">Earth</string>
+    <string name="answer_3_2">Mercury</string>
+    <string name="answer_3_3">Jupiter</string>
+    <string name="answer_3_4">Uranus</string>
+
+    <!-- Question 4 -->
+    <string name="question_4">Which of the following is the biggest country in the world?</string>
+    <string name="answer_4_1">Poland</string>
+    <string name="answer_4_2">China</string>
+    <string name="answer_4_3">Russia</string>
+    <string name="answer_4_4">USA</string>
+
+    <!-- Question 5 -->
+    <string name="question_5">What year was battle of Waterloo?</string>
+    <string name="answer_5_1">1797</string>
+    <string name="answer_5_2">1813</string>
+    <string name="answer_5_3">1815</string>
+    <string name="answer_5_4">1828</string>
+
+    <!-- Main menu texts -->
+    <string name="start_quiz">Start Quiz</string>
+    <string name="options">Options</string>
+    <string name="exit">Exit</string>
+
+    <!-- Score fragment texts -->
+    <string name="score_message">Congratulations! Your result is:</string>
+    <string name="score_retry">Try again?</string>
+    <string name="score_menu">Return to menu</string>
+
+</resources>

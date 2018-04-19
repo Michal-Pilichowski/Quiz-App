@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Colors for answer buttons -->
+    <color name="answer_default_blue">#000060</color>
+    <color name="answer_correct_green">#00AE00</color>
+    <color name="answer_wrong_color">#FF0000</color>
+    <color name="answer_text_white">#FFFFFF</color>
+
+</resources>
